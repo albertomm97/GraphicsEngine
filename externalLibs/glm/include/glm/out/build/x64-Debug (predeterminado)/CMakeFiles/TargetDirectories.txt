@@ -1,0 +1,2 @@
+C:/dev/APISGraficas/GraphicsEngine/dependencies/glm/include/glm/out/build/x64-Debug (predeterminado)/CMakeFiles/edit_cache.dir
+C:/dev/APISGraficas/GraphicsEngine/dependencies/glm/include/glm/out/build/x64-Debug (predeterminado)/CMakeFiles/rebuild_cache.dir
